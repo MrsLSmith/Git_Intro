@@ -3,7 +3,7 @@
   <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>YOUR NAME</title>
+      <title>Tapan</title>
       <meta name="description" content="Test file for Git Intro">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <style>
@@ -34,7 +34,7 @@
     <button id="sayHi">Click Me</button>
     <script>
         /****** CHANGE THE NEXT LINE BY SUBSTITUTING YOUR NAME ******/
-        var myName = "Tapan";
+        var myName = "tapan";
         
         function sayHi() {
             alert("Hello "+ myName);
